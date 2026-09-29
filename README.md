@@ -8,13 +8,21 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://qadeerahmed-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/QADEER-AHMED-cs)
+📍 **Karachi, Pakistan** &nbsp;·&nbsp; ✉️ **qadeerahmed.tech@gmail.com**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=QADEER-AHMED-cs\&style=flat-square\&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-000000?style=for-the-badge)](https://qadeerahmed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_My_Work-181717?style=for-the-badge)](https://github.com/QADEER-AHMED-cs)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:qadeerahmed.tech@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=QADEER-AHMED-cs&label=Profile%20Views&color=1B6A3B&style=flat-square)
+![Followers](https://img.shields.io/github/followers/QADEER-AHMED-cs?label=Followers&style=flat-square&color=1B6A3B)
+![Stars](https://img.shields.io/github/stars/QADEER-AHMED-cs?label=Stars&style=flat-square&color=1B6A3B)
+![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=flat-square)
 
 </div>
 
@@ -22,18 +30,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer and Computer Science graduate from Iqra University, Karachi**, focused on building modern web applications, enterprise platforms, and API-driven systems.
+I'm a **Computer Science graduate from Iqra University, Karachi** with hands-on experience in **Full-Stack Development** and **enterprise system support**. Currently working as a **Junior Developer at Learn Academy**, building and maintaining enterprise applications including **Student Portals, LMS, ERPNext-based systems, ESS, and Teacher Portals** using **React.js, TypeScript, and JavaScript**.
 
-Currently, I work as a **Junior Developer at Learn Academy**, contributing to the development and maintenance of an **ERPNext/Frappe-based education management ecosystem**.
+I'm experienced in **API integration, system maintenance, and backend coordination** with **Python (Frappe/ERPNext)**, along with **modern AI-assisted development tools** for improved productivity and debugging.
 
-My work involves developing interconnected **Student, Academic, Teacher, Faculty, and Employee Self-Service portals**, integrating frontend applications with enterprise backend systems, testing APIs, debugging complex data flows, and supporting real-world academic operations.
+**Seeking opportunities in Software Engineering and Full-Stack Development.**
 
 ```text
 💻 Software Engineering       → Modern, maintainable applications
-⚛️ Frontend Engineering      → React, TypeScript, responsive interfaces
+⚛️ Frontend Engineering      → React, React Native, TypeScript
 🔗 System Integration        → REST APIs, ERPNext, Frappe
-🐍 Backend & Automation      → Python and API-driven workflows
-🧪 Quality Engineering       → Testing, debugging, UAT
+🐍 Backend & Automation      → Python (Frappe/ERPNext)
+🧪 Quality Engineering       → Testing, Debugging, UAT
 🤖 Artificial Intelligence   → ML, Deep Learning, NLP & Computer Vision
 ```
 
@@ -41,61 +49,104 @@ My work involves developing interconnected **Student, Academic, Teacher, Faculty
 
 ---
 
+## 🎓 Education
+
+### Bachelor of Science in Computer Science (BSCS)
+**Iqra University, Karachi** | **2021 — 2025**
+
+- **CGPA:** 3.12 / 4.00
+- **Focus Areas:** Software Engineering, Full-Stack Development, AI/ML
+- **Final Year Project:** Multimodal Suicide Risk Detection (Transformers + CNNs)
+- **Relevant Coursework:** Data Structures, Algorithms, DBMS, Web Development, Machine Learning, Deep Learning
+
+---
+
 # 💼 Professional Experience
 
 ## 🚀 Junior Developer — Learn Academy
 
-**April 2026 — Present | Karachi, Pakistan**
+**April 2026 — Present | Karachi, Pakistan | On-site**
 
-Contributing to the engineering and operational reliability of an enterprise education technology platform built around **ERPNext/Frappe and modern React applications**.
+Working on **development and maintenance of enterprise systems** (Student Portals, LMS, ERPNext, ESS, Teacher Portals) using **React.js, TypeScript, and JavaScript**, supporting **ERPNext (Frappe Framework)** backend workflows.
 
-### What I Work On
+### Key Responsibilities
 
-* ⚛️ Develop and maintain web portals using **React and TypeScript**
-* 🔗 Integrate frontend applications with **ERPNext/Frappe REST APIs**
-* 🎓 Work across **Student, Academic, Teacher, Faculty, and ESS platforms**
-* 🏗️ Support modular frontend architecture and reusable application components
-* 📊 Implement workflows involving students, attendance, assessments, results, schedules, and academic programs
-* 👨‍💼 Support employee workflows including attendance, leave, profiles, and salary information
-* 🧪 Test and validate APIs using **Postman**
-* 🐛 Diagnose frontend, backend integration, permission, and data consistency issues
-* ✅ Perform functional testing and **User Acceptance Testing (UAT)**
-* 🔄 Collaborate across technical and operational teams to translate requirements into working solutions
+- ⚛️ Develop and maintain web portals using **React.js, TypeScript, and JavaScript**
+- 🔗 Handle **REST API integration and testing using Postman**
+- 🎓 Work across **Student, Academic, Teacher, Faculty, and ESS platforms**
+- 🏗️ Support modular frontend architecture and reusable application components
+- 📊 Implement workflows for students, attendance, assessments, results, schedules, and academic programs
+- 👨‍💼 Support employee workflows including attendance, leave, profiles, and salary information
+- 🔐 Implement **role-based access control (RBAC)** across multiple user types
+- 🎨 Build responsive UIs with **Tailwind CSS** and **Framer Motion**
+- 🐛 Perform **bug fixes, UI improvements**, ensuring **system stability and performance**
+- 🧪 Perform functional testing and **User Acceptance Testing (UAT)**
+- 🔄 Collaborate across technical and operational teams to translate requirements into working solutions
 
 ### Engineering Environment
 
-`React` • `TypeScript` • `JavaScript` • `Python` • `ERPNext` • `Frappe` • `REST APIs` • `Postman` • `Git`
+`React.js` • `TypeScript` • `JavaScript` • `Python` • `ERPNext` • `Frappe` • `REST APIs` • `Postman` • `Git`
 
 ---
 
 # 🧰 Technical Toolkit
 
-### 💻 Core Development
+### 💻 Programming & Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ⚙️ Platforms & Integration
+### 🎨 Frontend Frameworks & Libraries
 
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square\&logo=erpnext\&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square\&logo=frappe\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🤖 AI & Data
+### 🤖 AI, ML & Data Science
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🗄️ Data & Engineering Tools
+**Also:** `NLP` • `Pandas` • `NumPy` • `SQL` • `Power BI` • `Prompt Engineering`
 
-`PostgreSQL` • `MySQL` • `MongoDB` • `Supabase` • `Pandas` • `NumPy` • `Git` • `GitHub` • `VS Code` • `Power BI`
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+**AI-Assisted Dev Tools:** `Claude Code` • `Cursor AI` • `Replit AI` • `Antigravity AI`
+
+### 📋 Software Practices
+
+`SDLC` • `Agile` • `Debugging` • `System Integration` • `Testing (Manual, UAT)`
 
 ---
 
@@ -107,14 +158,16 @@ Contributing to the engineering and operational reliability of an enterprise edu
 
 ### Engineering Contributions
 
-* Built modular interfaces using **React and TypeScript**
-* Integrated multiple frontend modules with **ERPNext/Frappe APIs**
-* Developed academic workflows for students, teachers, attendance, assessments, fees, reports, and schedules
-* Implemented ESS functionality covering attendance, leave, employee profiles, directories, and salary slips
-* Structured application logic using reusable components, hooks, and API services
-* Supported testing and validation of real-world academic workflows
+- Built modular interfaces using **React.js and TypeScript**
+- Integrated multiple frontend modules with **ERPNext/Frappe APIs**
+- Developed academic workflows for students, teachers, attendance, assessments, fees, reports, and schedules
+- Implemented ESS functionality covering attendance, leave, employee profiles, directories, and salary slips
+- Implemented **role-based access control** for Employee, Teacher, and Admin roles
+- Structured application logic using reusable components, hooks, and API services
 
-**Stack:** `React` `TypeScript` `Vite` `ERPNext` `Frappe` `REST APIs`
+**Stack:** `React.js` `TypeScript` `Vite` `Tailwind` `ERPNext` `Frappe` `REST APIs`
+
+**🔗 [View Repository](https://github.com/QADEER-AHMED-cs/Learn-School-Employee-Self-Service-Portal-ESS)**
 
 ---
 
@@ -124,43 +177,56 @@ Contributing to the engineering and operational reliability of an enterprise edu
 
 ### Core Capabilities
 
-`Dashboard` • `Attendance` • `Assignments` • `Quizzes` • `Results` • `Authentication`
+`Dashboard` • `Attendance` • `Assignments` • `Quizzes` • `Results` • `Report Cards` • `Fees` • `ID Card Request`
 
 ### Engineering Focus
 
-* Component-based React architecture
-* Centralized student state and user context
-* Dedicated ERP service integration layer
-* API-driven academic data
-* Responsive and consistent user experience
+- Component-based React architecture
+- Centralized student state and user context
+- Dedicated ERP service integration layer
+- **AI-powered face detection** for avatar uploads (MediaPipe)
+- **Manual photo cropper** for ID card requests (Canvas API)
+- Status-based workflow (Pending → Approved → Rejected)
+- API-driven academic data
 
-**Stack:** `React` `TypeScript` `Vite` `ERPNext` `REST APIs`
+**Stack:** `React.js` `TypeScript` `Vite` `Tailwind` `MediaPipe` `ERPNext` `REST APIs`
+
+**🔗 [View Repository](https://github.com/QADEER-AHMED-cs/learn-school-student-portal)**
 
 ---
 
-## 🧠 Multimodal Risk Detection System
+## 🧠 Multimodal Suicide Risk Detection (AI/NLP/CV)
 
 ### Final Year Project
 
-A deep-learning system designed to process and combine **textual and visual information** for multimodal classification.
-
-```text
-Text Input  ──────► DistilBERT ─────┐
-                                    │
-                                    ├──► Early Fusion ──► MLP ──► Prediction
-                                    │
-Image Input ──────► MobileViT v2 ───┘
-```
+Developed an AI model using **Transformers** and **CNNs** for **suicide risk prediction** from multimodal data.
 
 ### Technical Highlights
 
-* 📝 **DistilBERT** for contextual text representation
-* 🖼️ **MobileViT v2** for visual feature extraction
-* 🔗 **Early Fusion** for multimodal feature integration
-* 🧠 **Multi-Layer Perceptron** for final classification
-* 🧪 Experience with preprocessing, experimentation, training, integration, and evaluation
+- 📝 **DistilBERT** for contextual text representation
+- 🖼️ **MobileViT v2** for visual feature extraction
+- 🔗 **Early Fusion** for multimodal feature integration
+- 🧠 **Multi-Layer Perceptron** for final classification
+- 🧪 Experience with preprocessing, experimentation, training, integration, and evaluation
 
-**Stack:** `Python` `PyTorch` `Hugging Face` `NLP` `Computer Vision` `Deep Learning`
+**Stack:** `Python` `TensorFlow` `Hugging Face` `OpenCV` `NLP` `Computer Vision` `Deep Learning`
+
+---
+
+## 🩺 Brain Tumor Detection & Segmentation
+
+### Personal Project
+
+Developed an AI-based **MRI tumor detection and segmentation** system.
+
+### Technical Highlights
+
+- 🖼️ **YOLOv11** for tumor detection
+- 🎯 **SAM2** (Segment Anything Model 2) for precise segmentation
+- 🩻 MRI image preprocessing with **OpenCV**
+- 📊 End-to-end pipeline for medical imaging analysis
+
+**Stack:** `Python` `YOLOv11` `SAM2` `OpenCV` `Deep Learning` `Computer Vision`
 
 ---
 
@@ -184,11 +250,11 @@ Improve & Scale
 
 I focus on building software that is:
 
-* 🧩 **Maintainable** — structured and understandable
-* 🔗 **Integrated** — reliable across frontend, APIs, and backend systems
-* 🛡️ **Reliable** — tested against real workflows and edge cases
-* 📈 **Scalable** — designed with future growth in mind
-* 🎯 **User-Focused** — built around practical requirements
+- 🧩 **Maintainable** — structured and understandable
+- 🔗 **Integrated** — reliable across frontend, APIs, and backend systems
+- 🛡️ **Reliable** — tested against real workflows and edge cases
+- 📈 **Scalable** — designed with future growth in mind
+- 🎯 **User-Focused** — built around practical requirements
 
 ---
 
@@ -207,9 +273,23 @@ I focus on building software that is:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=QADEER-AHMED-cs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=QADEER-AHMED-cs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QADEER-AHMED-cs&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QADEER-AHMED-cs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=QADEER-AHMED-cs&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=QADEER-AHMED-cs&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -217,13 +297,54 @@ I focus on building software that is:
 
 # 🌱 Currently Growing In
 
-* 🏗️ Production-grade software architecture
-* ⚛️ Advanced React and frontend engineering
-* 🐍 Python-based backend development
-* 🔗 Enterprise API and system integration
-* 🤖 AI-powered application development
-* 🧠 Large Language Models and intelligent systems
-* ☁️ Scalable application deployment
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🏗️  
+**Architecture**  
+Production-grade systems
+
+</td>
+<td align="center" width="25%">
+
+⚛️  
+**Frontend**  
+Advanced React patterns
+
+</td>
+<td align="center" width="25%">
+
+🐍  
+**Backend**  
+Python & APIs
+
+</td>
+<td align="center" width="25%">
+
+🤖  
+**AI/ML**  
+Intelligent systems
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🗣️ Languages
+
+<div align="center">
+
+| 🇬🇧 English | 🇵🇰 Urdu |
+|:-----------:|:--------:|
+| Professional | Native |
+
+</div>
 
 ---
 
@@ -231,18 +352,42 @@ I focus on building software that is:
 
 <div align="center">
 
-I'm always interested in connecting with developers, engineers, and teams working on meaningful technology.
+### 💬 Let's Build Something Great Together
+
+I'm always interested in connecting with developers, engineers, and teams working on meaningful technology. Whether it's a project collaboration, job opportunity, or just a tech conversation — feel free to reach out.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://qadeerahmed-portfolio.vercel.app/)
+### 📍 Location
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
+**Karachi, Pakistan**
 
-[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/QADEER-AHMED-cs)
+<br/>
 
-<br/><br/>
+### 🔗 Connect With Me
 
-### 💻 Building real systems. Solving real problems. Continuously improving.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-000000?style=for-the-badge)](https://qadeerahmed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
+
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge)](https://github.com/QADEER-AHMED-cs)
+[![Email](https://img.shields.io/badge/📧_Email-Send_Message-EA4335?style=for-the-badge)](mailto:qadeerahmed.tech@gmail.com)
+
+<br/>
+
+### 🤝 Open to Collaborate
+
+| 💼 Full-time Roles | 🌐 Remote Work | 🚀 Freelance |
+|:------------------:|:--------------:|:------------:|
+| Software Engineering | Hybrid / Remote | React / ERPNext / AI-ML |
+
+<br/>
+
+---
+
+### 💡 *"Building real systems. Solving real problems. Continuously improving."*
+
+
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=1B6A3B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff)
 
 </div>
