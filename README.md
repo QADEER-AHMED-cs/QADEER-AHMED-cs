@@ -17,13 +17,6 @@
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QADEER-AHMED-cs)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeerahmed.tech@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=QADEER-AHMED-cs&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/QADEER-AHMED-cs?label=Followers&style=flat-square&color=0e75b6)
-![Stars](https://img.shields.io/github/stars/QADEER-AHMED-cs?label=Stars&style=flat-square&color=0e75b6)
-![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=flat-square&logo=checkmarx&logoColor=white)
-
 </div>
 
 ---
