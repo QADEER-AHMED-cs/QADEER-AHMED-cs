@@ -12,17 +12,17 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-000000?style=for-the-badge)](https://qadeerahmed-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_My_Work-181717?style=for-the-badge)](https://github.com/QADEER-AHMED-cs)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:qadeerahmed.tech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://qadeer-ahmed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QADEER-AHMED-cs)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qadeerahmed.tech@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=QADEER-AHMED-cs&label=Profile%20Views&color=1B6A3B&style=flat-square)
-![Followers](https://img.shields.io/github/followers/QADEER-AHMED-cs?label=Followers&style=flat-square&color=1B6A3B)
-![Stars](https://img.shields.io/github/stars/QADEER-AHMED-cs?label=Stars&style=flat-square&color=1B6A3B)
-![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=QADEER-AHMED-cs&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/QADEER-AHMED-cs?label=Followers&style=flat-square&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/QADEER-AHMED-cs?label=Stars&style=flat-square&color=0e75b6)
+![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -38,11 +38,11 @@ I'm experienced in **API integration, system maintenance, and backend coordinati
 
 ```text
 💻 Software Engineering       → Modern, maintainable applications
-⚛️ Frontend Engineering      → React, React Native, TypeScript
-🔗 System Integration        → REST APIs, ERPNext, Frappe
-🐍 Backend & Automation      → Python (Frappe/ERPNext)
-🧪 Quality Engineering       → Testing, Debugging, UAT
-🤖 Artificial Intelligence   → ML, Deep Learning, NLP & Computer Vision
+⚛️ Frontend Engineering       → React, React Native, TypeScript
+🔗 System Integration         → REST APIs, ERPNext, Frappe
+🐍 Backend & Automation       → Python (Frappe/ERPNext), Node.js
+🧪 Quality Engineering        → Testing, Debugging, UAT
+🤖 Artificial Intelligence    → ML, Deep Learning, NLP & Computer Vision
 ```
 
 > I enjoy understanding how complete systems work — from the user interface and application logic to APIs, backend workflows, data, and real-world operations.
@@ -285,16 +285,6 @@ I focus on building software that is:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=QADEER-AHMED-cs&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 # 🌱 Currently Growing In
 
 <div align="center">
@@ -366,7 +356,7 @@ I'm always interested in connecting with developers, engineers, and teams workin
 
 ### 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-000000?style=for-the-badge)](https://qadeerahmed-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://qadeer-ahmed-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/qadeer-ahmed-24310627b/)
 
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge)](https://github.com/QADEER-AHMED-cs)
